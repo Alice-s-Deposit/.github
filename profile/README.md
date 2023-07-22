@@ -1,6 +1,6 @@
 
 
-# ** Alice's Deposit**
+# **Alice's Deposit**
 
 **Enhance privacy, unlink your funds**
 
@@ -13,8 +13,16 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 - Accessible and intuitive [web application]()  🌐
 - Robust private transfer solution: [ZkBob](https://www.zkbob.com/) ⚡
+- A decentralized frontend hosted on [Near](https://near.org/) <img src="https://cryptologos.cc/logos/near-protocol-near-logo.png"  
+alt="Markdown Monster icon"  
+style="float: left; margin-right: 5px;" />
+
 - Private transaction broadcast system based on TOR 🧅
 - High-performance cryptographic processes 🗝️
+
+## **The concept** 💡
+Alice's Deposit is a web application running a near
+
 
 ## **Our code** 👨‍💻
 
