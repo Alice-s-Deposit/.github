@@ -24,9 +24,9 @@ Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipns
 
 ## **Our code** 👨‍💻
 
-- [Web application]() : The easiest way to generate and verify a solvency proof.
+- [Web application](https://github.com/Alice-s-Deposit/WebApp) : The easiest way to generate and verify a solvency proof.
 
-- [Broadcaster proxy](https://github.com/KS-ETHDenver2023/zkbob-direct-deposit) : Now you can transfer BOB stablecoin without leaking your address
+- [Broadcaster proxy](https://github.com/Alice-s-Deposit/Proxy-RPC) : Now you can transfer ethers without leaking your address
 
 
 ## **Pitch Deck**
