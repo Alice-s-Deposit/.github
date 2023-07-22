@@ -31,7 +31,7 @@ Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipfs
 
 ## **Pitch Deck**
 
-Here you can find our [pitch deck](https://github.com/Alice-s-Deposit/.github/blob/main/Cypher_deposit_pitch_deck.pdf)
+Here you can find our [pitch deck](https://github.com/Alice-s-Deposit/.github/blob/main/Cypher_deposit_pitch_deck.pdf)  📖
 
 ## **The team** 🏆
 
