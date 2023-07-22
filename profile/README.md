@@ -13,7 +13,8 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 - Accessible and intuitive [web application]()  🌐
 - Robust private transfer solution: [ZkBob](https://www.zkbob.com/) ⚡
-- A decentralized frontend hosted on [Near](https://near.org/) ![](https://pages.near.org/wp-content/uploads/2021/09/brand-icon-300x300.png | width=14)
+- A decentralized frontend hosted on [Near](https://near.org/) ![](https://pages.near.org/wp-content/uploads/2021/09/brand-icon-300x300.png | width=20)
+- ![](https://pages.near.org/wp-content/uploads/2021/09/brand-icon-300x300.png | width=14)
 - Private transaction broadcast system based on TOR 🧅
 - High-performance cryptographic processes 🗝️
 
