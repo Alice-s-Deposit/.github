@@ -1,11 +1,11 @@
 
-
 # **Alice's Deposit**
 
 **Privacy is not an option**
 
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
+**Our web-app avalaible on IPFS [here](ipfs://bafybeib6abmqppht4fxic4rnq65ms2bcqhjesgmytky2trevss3bqcrcmm)**
 **A Youtube video of our product :** [here]()
 ####
 
@@ -18,7 +18,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 - High-performance cryptographic processes 🗝️
 
 ## **The concept** 💡
-TODO: describe the project
+Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipns
 
 
 ## **Our code** 👨‍💻
