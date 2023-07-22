@@ -18,7 +18,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 - High-performance cryptographic processes 🗝️
 
 ## **The concept** 💡
-Alice's Deposit is a web application running a near
+TODO: describe the project
 
 
 ## **Our code** 👨‍💻
