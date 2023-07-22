@@ -19,7 +19,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 - High-performance cryptographic processes 🗝️
 
 ## **The concept** 💡
-Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipns
+Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipfs allows anyone to retrieve funds from centralized exchanges 
 
 
 ## **Our code** 👨‍💻
