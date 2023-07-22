@@ -2,7 +2,7 @@
 
 # ** Alice's Deposit**
 
-**Enhance privacy, unlink your funds **
+**Enhance privacy, unlink your funds**
 
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
