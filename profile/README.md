@@ -19,7 +19,7 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 - High-performance cryptographic processes 🗝️
 
 ## **The concept** 💡
-Cypher Deposit is your Path to Financial Privacy! Our application hosted on ipfs allows anyone to retrieve funds from centralized exchanges 
+Cypher Deposit is a groundbreaking web app that prioritizes your financial privacy. Our application, hosted on IPFS, offers a unique opportunity for users to withdraw funds from centralized exchanges without the need to associate the receiving address with their real-world identity. Thanks to [zkBob private transfer](https://app.zkbob.com/) solution, your personal information remains confidential, ensuring that only you have access to the transaction details and the destination of your funds. Take control of your financial transactions and safeguard your privacy with Cypher Deposit!
 
 
 ## **Our code** 👨‍💻
