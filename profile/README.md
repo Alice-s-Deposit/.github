@@ -5,7 +5,7 @@
 
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Cypher Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
-**Our web-app [avalaible on IPFS](https://bafybeifcqbafa7sd7kv2fnz3kingf3bfodetqzeaa3ra2fncbuibwa3iou.ipfs.dweb.link/)**
+**Our web-app [avalaible on IPFS](ipfs://bafybeifumcknrwl6rb7bntfh2kdtavkwuzxjmmnepugfpvebpd67qbc4py)**
 
 **A Youtube video of our product :** [here]()
 ####
