@@ -14,8 +14,8 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 - Accessible and intuitive [web application](https://github.com/Alice-s-Deposit/WebApp) hosted on [IPFS](https://ipfs.tech/) <img src="https://pbs.twimg.com/media/DqZWw97UwAA4Wxy.jpg" width="20" height="20">
 - Robust private transfer solution: [ZkBob](https://www.zkbob.com/)   <img src="https://pbs.twimg.com/profile_images/1575754862817681408/GTj8Nggj_400x400.png" width="20" height="20">
-- Private transaction broadcast system based on [HOPR](https://hoprnet.org/)   <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/6520.png"  height="20">
-- Private rpc proxy on [Bacalhau]() <img src="https://filecoin.io/uploads/bacalhau.png" width="20" height="20">
+- Private RPC system based on [HOPR](https://hoprnet.org/) RPCh  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/6520.png"  height="20">
+- Hosted on [Bacalhau]() <img src="https://filecoin.io/uploads/bacalhau.png" width="20" height="20">
 - High-performance cryptographic processes 🗝️
 
 ## **The concept** 💡
