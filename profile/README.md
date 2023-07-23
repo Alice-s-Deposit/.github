@@ -39,7 +39,7 @@ Here you can find our [pitch deck](https://github.com/Alice-s-Deposit/.github/bl
 
 We are all students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects and we want to be able to change that. That is why Maxime, Nathan, Thomas and Adam are glad to present Alice’s Deposit, the solution for real privacy.
 
-By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Alice's Deposit has the potential to be a valuable tool for individuals and businesses alike.
+By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Cypher Deposit has the potential to be a valuable tool for individuals and businesses alike.
 
 
 ## **Contribute** 📚
