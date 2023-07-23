@@ -1,5 +1,5 @@
 
-# **Alice's Deposit**
+# **Cypher Deposit**
 
 **Privacy is not an option**
 
